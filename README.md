@@ -1,6 +1,8 @@
 # MERN Full Stack Social Media App
 
-Complete Fullstack Responsive MERN App with Auth, Likes, Comments, Dark Mode | React, MongoDB, MUI
+Complete Fullstack Responsive MERN App with Auth, Likes, Comments, Friends and Dark Mode | React, MongoDB, MUI
+
+FE was built using React, Redux Toolkit, Material UI. BE was built using NodeJS, ExpressJS and MongoDB.
 
 ## Description
 

@@ -23,3 +23,7 @@ This project uses:
 - [JsonWebToken](https://github.com/auth0/node-jsonwebtoken)
 - [Multer](https://github.com/expressjs/multer)
 - [GridFS-Storage](https://github.com/devconcept/multer-gridfs-storage)
+
+## Testing the Social Media App
+
+In order to test the app you can login as a test user (email: testuser@gmail.com, password: secret) or just register a new user with dummy data.
